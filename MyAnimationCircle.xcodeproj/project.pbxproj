@@ -12,6 +12,7 @@
 		279DBF1E20D3905D00E93642 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 279DBF1C20D3905D00E93642 /* Main.storyboard */; };
 		279DBF2020D3905F00E93642 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 279DBF1F20D3905F00E93642 /* Assets.xcassets */; };
 		279DBF2320D3905F00E93642 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 279DBF2120D3905F00E93642 /* LaunchScreen.storyboard */; };
+		279DBF2B20D3D61800E93642 /* UIColor + Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 279DBF2A20D3D61800E93642 /* UIColor + Color.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		279DBF1F20D3905F00E93642 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		279DBF2220D3905F00E93642 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		279DBF2420D3905F00E93642 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		279DBF2A20D3D61800E93642 /* UIColor + Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor + Color.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				279DBF1820D3905D00E93642 /* AppDelegate.swift */,
 				279DBF1A20D3905D00E93642 /* ViewController.swift */,
 				279DBF1C20D3905D00E93642 /* Main.storyboard */,
+				279DBF2A20D3D61800E93642 /* UIColor + Color.swift */,
 				279DBF1F20D3905F00E93642 /* Assets.xcassets */,
 				279DBF2120D3905F00E93642 /* LaunchScreen.storyboard */,
 				279DBF2420D3905F00E93642 /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				279DBF1B20D3905D00E93642 /* ViewController.swift in Sources */,
+				279DBF2B20D3D61800E93642 /* UIColor + Color.swift in Sources */,
 				279DBF1920D3905D00E93642 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
